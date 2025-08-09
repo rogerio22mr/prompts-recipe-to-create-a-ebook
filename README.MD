@@ -40,15 +40,15 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema de de lambda no java, o ebookk é do nicho de programação, o título deve ser épico e curto, me liste 5 variações de títulos                                                        |
+| conteúdo | Faça um texto para ebook , com foco em expressões lambda no java, listando as as diferenças do antes e depois. Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Generate a image for an Ebook cover for a tech book titled "Java Funcional". A minimalist and elegant design. On a dark blue background, a vibrant orange stream of data particles flows from left to right. In the center, the stream passes through a large, weak glowing white lambda symbol (λ). After passing the symbol, the stream becomes a single, coherent beam of light. Professional, high resolution, digital art. |
 
 ## ✨ Features
 
